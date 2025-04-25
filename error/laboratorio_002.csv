@@ -1,0 +1,3 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,1001,Hemograma,Normal,2025-04-20
+1,1002,Glucosa,Alto,2025-04-21

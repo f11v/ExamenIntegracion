@@ -1,0 +1,4 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,101,glucosa,5.8,2025-04-20
+1,102,hemoglobina,13.5,2025-04-21
+1,103,glucosa,7.0,2025-04-22
