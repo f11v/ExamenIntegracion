@@ -60,7 +60,7 @@ BioNet administra una red de laboratorios clínicos distribuidos en diferentes c
 
 ## **Implementación Técnica**
 ### **Módulo 1 – Transferencia de Archivos**
-- **Herramienta**: Apache Camel.
+- **Herramienta**: Python - Apache Camel.
 - **Funcionalidades**:
   - Leer archivos `.csv` desde `/input-labs/`.
   - Validar que los archivos sean completos y sin errores.
