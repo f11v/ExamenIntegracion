@@ -92,9 +92,6 @@ BioNet administra una red de laboratorios clínicos distribuidos en diferentes c
 
 ## **Imagenes de evidencia**
 
-![{29BB212B-9471-4821-924F-B0B4D97E0499}](https://github.com/user-attachments/assets/28807402-8e58-46e5-92b6-0344c7f454be)
-Nota: Se ocupa Apache Camel
-
 ![image](https://github.com/user-attachments/assets/fe76e37c-3984-41cc-8fad-93e3a8713a38)
 Nota: Ingresa los datos del archivo 
 
