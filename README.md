@@ -2,7 +2,7 @@
 # **Sistema de Integración de Resultados Clínicos - Caso BioNet**
 
 ## **Introducción**
-BioNet administra una red de laboratorios clínicos distribuidos en diferentes ciudades del país. Este proyecto soluciona los problemas actuales relacionados con la gestión, transferencia y consolidación de resultados de exámenes clínicos mediante un sistema automatizado y unificado. La implementación asegura la integridad, consistencia y disponibilidad de los datos, mejorando significativamente la eficiencia operativa.
+BioNet administra una red de laboratorios clínicos distribuidos en diferentes ciudades del país. Este proyecto soluciona los problemas actuales relacionados con la gestión, transferencia y consolidación de resultados de exámenes clínicos mediante un sistema automatizado y unificado. La implementación asegura la integridad, consistencia y disponibilidad de los datos, mejorando significativamente la eficiencia operativa. 
 
 ---
 
