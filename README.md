@@ -60,14 +60,14 @@ BioNet administra una red de laboratorios clínicos distribuidos en diferentes c
 
 ## **Implementación Técnica**
 ### **Módulo 1 – Transferencia de Archivos**
-- **Herramienta**: Apache Camel o script propio.
+- **Herramienta**: Apache Camel.
 - **Funcionalidades**:
   - Leer archivos `.csv` desde `/input-labs/`.
   - Validar que los archivos sean completos y sin errores.
   - Mover archivos válidos a `/processed/` y inválidos a `/error/`.
 
 ### **Módulo 2 – Ingesta en Base de Datos**
-- **Base de Datos**: SQLite o MySQL.
+- **Base de Datos**: SQLite.
 - **Funcionalidades**:
   - Insertar los resultados en `resultados_examenes`.
   - Implementar índices únicos para evitar duplicados.
